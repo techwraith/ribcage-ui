@@ -9,6 +9,7 @@ A collection of links to repos that use ribcage and atomify to make ui component
 - [ViewSwitcher](https://github.com/Techwraith/ribcage-switcher) `ribcage-switcher`
 - [Menu](https://github.com/Techwraith/ribcage-menu) `ribcage-menu`
 - [Modal](https://github.com/Techwraith/ribcage-modal) `ribcage-modal`
+- [TopBar](https://github.com/Techwraith/ribcage-top-bar) `ribcage-top-bar`
 
 ##Module ideas
 
@@ -16,7 +17,6 @@ A collection of links to repos that use ribcage and atomify to make ui component
 - SearchInput
 - List
 - ListItem
-- Header
 - Footer
 - Modal
 - LeftMenu
