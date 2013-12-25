@@ -12,6 +12,7 @@ A collection of links to repos that use ribcage and atomify to make ui component
 - [TopBar](https://github.com/Techwraith/ribcage-top-bar) `ribcage-top-bar`
 - [Picker](https://github.com/ben-ng/ribcage-picker) [(Demo)](http://ben-ng.github.io/ribcage-picker/) `ribcage-picker`
 - [DatePicker](https://github.com/ben-ng/ribcage-date-picker) [(Demo)](http://ben-ng.github.io/ribcage-date-picker/) `ribcage-date-picker`
+- [QuantityPicker](https://github.com/ben-ng/ribcage-quantity-picker) [(Demo)](http://ben-ng.github.io/ribcage-quantity-picker/) `ribcage-quantity-picker`
 
 ##Module ideas
 
